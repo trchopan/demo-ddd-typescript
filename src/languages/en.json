@@ -1,0 +1,10 @@
+{
+  "liff.network-error": "Network Error",
+  "healthcare.input-field.weight.too-small": "Weight is too small",
+  "healthcare.input-field.weight.too-big": "Weight is too big",
+  "healthcare.input-field.upper-bloodpressure.too-small": "Upper bloodpressure is too small",
+  "healthcare.input-field.upper-bloodpressure.too-big": "Upper bloodpressure is too big",
+  "healthcare.input-field.lower-bloodpressure.too-small": "Lower bloodpressure is too small",
+  "healthcare.input-field.lower-bloodpressure.too-big": "Lower bloodpressure is too big",
+  "healthcare.input-field.lower-bloodpressure.must-smaller-than-upper": "Lower bloodpressure must smaller than upper bloodpressure"
+}
